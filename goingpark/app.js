@@ -1,0 +1,17 @@
+require.config({
+	paths:{
+		index:'./index',
+		jquery:'./jquery-2.1.1',
+		underscore:'./underscore',
+		backbone:'./backbone',
+		router:'./router',
+		text:'./text',
+		touch:'./touch.min',
+		index:'./index',
+		bootstrap:'./bootstrap',
+		carousel:'./home/carousel'
+	}
+});
+require(['backbone','router','index'],function(backbone){
+	backbone.history.start();
+})

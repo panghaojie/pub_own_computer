@@ -1,0 +1,16 @@
+ul,li{list-style: none;}
+#home{width: 100%;height: 100%;overflow-y:scroll;background:#eee;}
+// .homeHeader{width: 100%;height: 8%;background: black;color: white;}
+// .homeHeader p{height: 100%;font-size: 2rem;}
+// .homeHeader p:first-child{font-size: 4rem;font-weight: normal;}
+// .homeHeader p:nth-child(2){line-height: 200%;text-align:left;}
+// .homeHeader p:nth-child(3){line-height: 200%;text-indent:9%;}
+// .homeHeader p:nth-child(4){font-size:4rem;line-height:56%;}
+.areaList{width: 100%;height: 30%;margin-top: 5%;}
+.areaList img{width: 49.5%;height: 100%;display:black;float: left;}
+.areaList img:last-child{margin-left: 1%}
+.splendid{width: 100%;height: 10%;padding-top:2.5%;}
+.splendid p{width: 20%;height: 80%;margin:0 auto;text-align:center;font-size:2rem;line-height:200%;border-top:1px solid #f06d5b;border-bottom:1px solid #f06d5b;color:#f06d5b;}
+.summer{width: 100%;height: 100%;}
+.summer li{width: 100%;height: 25%;margin-bottom:5%;}
+.summer li img{width: 100%;height: 100%;}
