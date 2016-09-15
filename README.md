@@ -1,2 +1,2 @@
 # pub_own_computer
-#goingpark is a project of weixin,please download it to learn 
+#goingpark is a project of WeChat public number,you can download it to learn 
